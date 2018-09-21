@@ -1,7 +1,7 @@
 # HLC
 CONTENIDOS
 
-[1. Conceptos generales sobre la web](https://github.com/Diegocd/HLC/blob/master/1.%20Conceptos%20generales%20sobre%20la%20web.md)
+[1. Conceptos generales sobre la web](https://github.com/Diegocd/HLC/blob/master/1.%20Conceptos%20generales%20sobre%20la%20web)
 
 - HTML, CSS, Javascript
 - Backend y Frontend
