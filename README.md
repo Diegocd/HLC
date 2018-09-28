@@ -13,7 +13,7 @@ CONTENIDOS
 - Multiple Page Application / Single Page Application.
 - Persistencias de los datos.
 
-2. Gestión bases de datos noSQL:
+[2. Gestión bases de datos noSQL](https://github.com/Diegocd/HLC/blob/master/2.%20Gesti%C3%B3n%20bases%20de%20datos%20noSQL)
 
 - Instalación del servidor de BD MongoDB.
 - Gestión del servicio.
